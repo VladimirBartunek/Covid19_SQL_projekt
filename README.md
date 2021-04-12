@@ -9,4 +9,5 @@ Z důvodu chybějících hodnot v databázi, máme u některých zemí neúplné
 2. Chybí ekonomické a náboženské údaje u Ruska, US a některých menších zemí. U Ruska a US jsem nejzákladnější hodnoty doplnil
 z externích zdrojů.
 3. Dále také chybí gini koeficient u více než poloviny zemí.
+
 S pozdravem, Vladimír Bartůněk
